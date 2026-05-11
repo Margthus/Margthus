@@ -2,8 +2,6 @@
 
 ### A budding Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Margthus&label=Profile views&color=0e75b6&style=flat" alt="Margthus" /> </p>
-
 - 🔭 I'm currently working on **CineSoft — an open-source Windows media manager
 Improving my desktop app development skills with Electron, React and Node.js
 Learning backend architecture, APIs and deployment**
