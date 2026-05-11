@@ -33,18 +33,6 @@
 
 ---
 
----
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Margthus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Margthus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 <p align="left">
   <img height="165" src="https://streak-stats.demolab.com?user=Margthus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
